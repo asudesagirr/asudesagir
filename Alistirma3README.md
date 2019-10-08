@@ -1,4 +1,5 @@
 toplam=1
+
 fak=1
 
 for j in range(1,1000):

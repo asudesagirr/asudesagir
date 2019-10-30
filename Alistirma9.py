@@ -10,3 +10,6 @@ for i in range(1,999):
 
     if a<9:
         print(s, end=" ")
+
+        
+#Esra hocanın kodu     

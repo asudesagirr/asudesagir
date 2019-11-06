@@ -6,5 +6,5 @@ def fibonacci(n):
     else:
         return fibonacci(n-1)+ fibonacci(n-2)
 
-for i in range(1,30):
+for i in range(1,31): #usame söyledi
     print(fibonacci(i),end=" ")
